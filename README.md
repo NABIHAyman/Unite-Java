@@ -154,6 +154,12 @@ données séparée, pas de tests automatisés, et aucun script de création de s
 
 ---
 
+## Licence
+
+Distribué sous licence [MIT](LICENSE) — © 2026 Ayman NABIH.
+
+---
+
 ## Auteur
 
 **Ayman NABIH**
